@@ -1,0 +1,9 @@
+{
+  "nextlabs.cloudaz.host": "<CloudAz REST API host> eg: saas-jpc.platform.nextlabs.solutions",
+  "nextlabs.cloudaz.port": "443",
+  "nextlabs.cloudaz.https": true,
+  "nextlabs.cloudaz.auth_type": "OAUTH2",
+  "nextlabs.cloudaz.oauth2.grant_type": "client_credentials",
+  "nextlabs.cloudaz.oauth2.client_id": "<CLIENT_ID>",
+  "nextlabs.cloudaz.oauth2.client_secret": "<CLIENT_SECRET>"
+}

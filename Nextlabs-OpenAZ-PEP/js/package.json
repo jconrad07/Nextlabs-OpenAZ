@@ -1,0 +1,23 @@
+{
+  "name": "nextlabs-openaz",
+  "version": "1.0.0",
+  "description": "Nextlabs OpenAZ PEP Agent",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.4.7",
+    "request": "^2.74.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
+    "mocha": "^3.0.2"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "openAZ"
+  ],
+  "author": "Nextlabs",
+  "license": "ISC"
+}
